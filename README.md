@@ -41,15 +41,24 @@ Step:
 
   https://vercel.com/login
   ![alt text](screenshot/image.png)
-- Add New  
+
+- Add New
 
   ![alt text](screenshot/image-1.png)
+
 - Import Git Repository
 
   ![alt text](screenshot/image-2.png)
+
 - Deploy
 
   ![alt text](screenshot/image-3.png)
+
+- Customize Domain
+
+- ![alt text](screenshot/image-6.png)
+  ![alt text](screenshot/image-7.png)
+
 - screenshot
 
   ![alt text](screenshot/image-4.png)
