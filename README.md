@@ -38,14 +38,19 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 Step:
 
 - login:
+
   https://vercel.com/login
   ![alt text](screenshot/image.png)
 - Add New  
+
   ![alt text](screenshot/image-1.png)
 - Import Git Repository
+
   ![alt text](screenshot/image-2.png)
 - Deploy
+
   ![alt text](screenshot/image-3.png)
 - screenshot
+
   ![alt text](screenshot/image-4.png)
   ![alt text](screenshot/image-5.png)
